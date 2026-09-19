@@ -10,6 +10,7 @@
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
 - [GioPs](https://github.com/01giopaixao)
+- [Chethan D B](https://github.com/CHETHANDB123) My first open-source contribution!
 - [Neha Pani](https://github.com/paraleash99)
 - [Senith Umesha](https://github.com/SenithUmesha)
 - [Victor Castillo](https://github.com/VCastilloC2)
